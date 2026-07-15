@@ -1,0 +1,6 @@
+objectdetectvenv/
+__pycache__/
+*.pyc
+data/
+runs/detect/predict*/
+.ipynb_checkpoints/
