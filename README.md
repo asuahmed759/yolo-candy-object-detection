@@ -63,9 +63,7 @@ Training and validation loss curves, along with precision/recall/mAP progression
 
 The confusion matrix ([`runs/detect/train/confusion_matrix.png`](runs/detect/train/confusion_matrix.png)) shows strong performance on most classes (e.g. `airheads`, `three_musketeers`, `skittles`), with `twizzlers` being the weakest class — likely due to fewer training examples for that class.
 
-### Example Detections
 
-![Validation predictions](runs/detect/train/val_batch0_pred.jpg)
 
 ## Project Structure
 
